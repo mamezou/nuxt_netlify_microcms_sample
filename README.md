@@ -1,19 +1,24 @@
-# nuxt_netlify_microcms_sample
+# Nuxt.js × Netlify × MicroCMSでJamstackブログを公開しよう【完全図解】のサンプルリポジトリ
 
-## Build Setup
+## Qiita記事
+[Nuxt.js × Netlify × MicroCMSでJamstackブログを公開しよう【完全図解】](https://qiita.com/mamezou_yuki/items/0e7aeeac2d8e582aa93b)
+
+## セットアップ
 
 ```bash
-# install dependencies
+# プラグイン をインストール
 $ npm install
 
-# serve with hot reload at localhost:3000
+
+# サーバーの起動（開発モード）
+# localhost:3000
 $ npm run dev
 
-# build for production and launch server
+# ビルドコマンドなど
 $ npm run build
 $ npm run start
 
-# generate static project
+# 静的データ生成コマンド
 $ npm run generate
 ```
 
